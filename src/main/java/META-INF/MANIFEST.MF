@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.efomenko.Main
+Class-Path: javafx-controls-13.jar javafx-controls-13-win.jar mysql-conn
+ ector-java-8.0.23.jar javafx-base-13-win.jar javafx-graphics-13-win.jar
+  src.zip javafx-swt.jar javafx.web.jar javafx.base.jar javafx.fxml.jar 
+ javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.graphics.j
+ ar javafx-fxml-13-win.jar javafx-fxml-13.jar javafx-graphics-13.jar jav
+ afx-base-13.jar
+

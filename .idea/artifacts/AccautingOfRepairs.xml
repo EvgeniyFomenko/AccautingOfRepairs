@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="AccautingOfRepairs">
+    <output-path>$PROJECT_DIR$/out/artifacts/AccautingOfRepairs</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.efomenko.views.MenuViews" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="AccautingOfRepairs" />
+        <option name="vendor" value="" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="AccautingOfRepairs.jar">
+        <element id="module-output" name="AccautingOfRepairs" />
+        <element id="file-copy" path="$USER_HOME$/OneDrive/Документы/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
